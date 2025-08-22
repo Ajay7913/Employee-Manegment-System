@@ -1,5 +1,7 @@
 # Employee-Manegment-System
+
 Project: Employee Management System (Console-Based)
+
 🔹 Description
 
 The Employee Management System is a Java-based console application designed to manage employees in an organization. It allows users to add employees (Managers and Developers), list all employees, and find the employee with the highest salary.
